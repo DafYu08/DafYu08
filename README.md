@@ -20,14 +20,21 @@ Soy *Científica de Datos* a punto de graduarme de la UBA. Me encantan los proye
 
   
 - 🔭 Busco/quiero:
-      - Conseguir un trabajo que me permita mejorar mis habilidades como profesional.
-      - Graduarme de la Universidad.
-      - Poder combinar todo lo que fui aprendiendo en nuevos proyectos.
-   
+
+  - Conseguir un trabajo que me permita mejorar mis habilidades como profesional.
+  
+	- Graduarme de la Universidad.
+
+  - Poder combinar todo lo que fui aprendiendo en nuevos proyectos.
+
+	 
 - 🤔 Qué pueden encontrar en este repo?
-      - Proyectos/trabajos prácticos enmarcados en materias obligatorias de la facultad.
-      - Trabajos "formato paper" que formaron parte de investigación de materias optativas.
-      - Proyectos personales con mucho amor :)
+
+  - Proyectos/trabajos prácticos enmarcados en materias obligatorias de la facultad.
+  
+	- Trabajos "formato paper" que formaron parte de investigación de materias optativas.
+
+  - Proyectos personales con mucho amor :)
 
 - 🔍 Cómo busco todo eso?
       - La mayoría de las cosas están dentro de una carpeta que refleja más o menos el área al que pertenecen.
