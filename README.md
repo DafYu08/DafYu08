@@ -36,5 +36,4 @@ Soy *Científica de Datos* a punto de graduarme de la UBA. Me encantan los proye
 
 Ante cualquier pregunta, estoy disponible para responderla! 
 
-#Gracias Totales
--->
+**Gracias Totales**
