@@ -5,12 +5,19 @@ Primero un poco sobre mí...
 Soy *Científica de Datos* a punto de graduarme de la UBA. Me encantan los proyectos de Optimización y Estadística. 
 
 - 🌱Ahora estoy:
-      - Realizando mi tesis de licenciatura en Programación Lineal entera para Problemas de Asignación de Turnos (Management).
-      - Capacitándome en modelos de Machine Learning y procesamiento del Lenguaje.
-      - Enseñando Técnicas Algorítmicas en mi facultad como ayudante.
-      - Participando de desafíos de Optimización y competencias de ML.
-      - Aprendiendo a armar APIs en Java.
-      - Tocando el piano e incursionando con guitarra eléctrica y el canto.
+
+  - Realizando mi tesis de licenciatura en Programación Lineal entera para Problemas de Asignación de Turnos (Management).
+  
+  - Capacitándome en modelos de Machine Learning y procesamiento del Lenguaje.
+  
+  - Enseñando Técnicas Algorítmicas en mi facultad como ayudante.
+  
+  - Participando de desafíos de Optimización y competencias de ML.
+  
+  - Aprendiendo a armar APIs en Java.
+  
+  - Tocando el piano e incursionando con guitarra eléctrica y el canto.
+
   
 - 🔭 Busco/quiero:
       - Conseguir un trabajo que me permita mejorar mis habilidades como profesional.
