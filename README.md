@@ -1,6 +1,5 @@
 # Van a encontrar proyectos muy especiales <3👋
 ### Ideas, música y creatividad
-Primero un poco sobre mí...
 
 Soy *Científica de Datos* a punto de graduarme de la UBA. Me encantan los proyectos de Optimización y Estadística. 
 
