@@ -28,9 +28,10 @@ Soy *Científica de Datos* a punto de graduarme de la UBA. Me encantan los proye
   - De cada cosa intentaré poner la consigna/ideas para que se entiendan los objetivos que tenía cada trabajo.
   - Si sos estudiante de la facu y estás buscando mis resueltos, esos sí van a estar adentro de las carpetas con el nombre de la materia. Suerte con eso ;)
 
-- 💬 Preguntas/dónde encontrar mi info profesional?: mi cv se encuentra en este repo:
-      Perfil de LinkedIn: https://www.linkedin.com/in/dafne-yudcovsky-1164931ba/?locale=en_US
-      dafneyudcovsky@gmail.com
+- 💬 Preguntas/dónde encontrar mi info profesional?:
+  - Mi cv se encuentra en este repo
+  - Perfil de LinkedIn: https://www.linkedin.com/in/dafne-yudcovsky-1164931ba/?locale=en_US
+  - dafneyudcovsky@gmail.com
   
 - ⚡ Dato curioso: quiero armar una banda de rock instrumental que se llame DaToS (por mi nombre y el resto de miembros)
 
