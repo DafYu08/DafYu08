@@ -12,9 +12,7 @@ Soy *Científica de Datos* a punto de graduarme de la UBA. Me encantan los proye
   - Enseñando Técnicas Algorítmicas en mi facultad como ayudante.
   
   - Participando de desafíos de Optimización y competencias de ML.
-  
   - Aprendiendo a armar APIs en Java.
-  
   - Tocando el piano e incursionando con guitarra eléctrica y el canto.
 
   
