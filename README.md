@@ -24,14 +24,10 @@ Soy Científica de Datos a punto de graduarme de la UBA. Me encantan los proyect
 
 - 🔍 Cómo busco todo eso?
       - La mayoría de las cosas están dentro de una carpeta que refleja más o menos el área al que pertenecen.
-      - En cada proyecto pueden ver la barrita inferior derecha que indica el porcentaje de cada lenguaje de programación
-        que se usa (en general Python, c++, R, SQL o Java, cplex o scip).
-      - Hay carpetas que tienen el nombre de materia y otras el nombre de la temática que tocan. Por eso va a ser probable
-        que haya un proyecto de ML dentro de estadística. Todo lo que esté muy muy copado, seguramente lo tenga repetido en
-        varias carpetas porque corresponde con distintas áreas.
+      - En cada proyecto pueden ver la barrita inferior derecha que indica el porcentaje de cada lenguaje de programación que se usa (en general Python, c++, R, SQL o Java, cplex o scip).
+      - Hay carpetas que tienen el nombre de materia y otras el nombre de la temática que tocan. Por eso va a ser probable que haya un proyecto de ML dentro de estadística. Todo lo que esté muy muy copado, seguramente lo tenga repetido en varias carpetas porque corresponde con distintas áreas.
       - De cada cosa intentaré poner la consigna/ideas para que se entiendan los objetivos que tenía cada trabajo.
-      - Si sos estudiante de la facu y estás buscando mis resueltos, esos sí van a estar adentro de las carpetas con el nombre
-        de la materia. Suerte con eso ;)
+      - Si sos estudiante de la facu y estás buscando mis resueltos, esos sí van a estar adentro de las carpetas con el nombre de la materia. Suerte con eso ;)
 
 - 💬 Preguntas/dónde encontrar mi info profesional?: mi cv se encuentra en este repo:
       Perfil de LinkedIn: https://www.linkedin.com/in/dafne-yudcovsky-1164931ba/?locale=en_US
