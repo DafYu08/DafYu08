@@ -1,27 +1,33 @@
-# Van a encontrar proyectos muy especiales <3👋
-### Ideas, música y creatividad
+# Hola, bienvenido/a a mi portfolio
+### Mereces lo que sueñas
 
-Soy *Científica de Datos* a punto de graduarme de la UBA. Me encantan los proyectos de Optimización y Estadística. 
+Soy *Científica de Datos* graduada de la UBA. Me encantan los proyectos de Optimización, Machine Learning y Estadística.
+Me gusta involucrarme en proyectos punta a punta con ideas originales, basadas en soluciones para problemas de la vida cotidiana.
 
-- 🌱Ahora estoy:
-  - Realizando mi tesis de licenciatura en Programación Lineal entera para Problemas de Asignación de Turnos (Management).
-  - Capacitándome en modelos de Machine Learning y procesamiento del Lenguaje.
-  - Enseñando Técnicas Algorítmicas en mi facultad como ayudante.
-  - Participando de desafíos de Optimización y competencias de ML.
+- Hasta ahora:
+  - Realicé mi tesis de licenciatura en Programación Lineal entera para Problemas de Asignación de Turnos (Management).
+  - Me estoy capacitando en modelos de Machine Learning y procesamiento del Lenguaje.
+  - Participé de desafíos de Optimización y competencias de ML.
+
+- Actualmente:
+  - Trabajando en proyectos de optimización en Accenture.
+  - Realizando cursos relacionados con Agentic IA.
   - Aprendiendo a armar APIs en Java.
+  - Enseñando Técnicas Algorítmicas en mi facultad como ayudante.
   - Tocando el piano e incursionando con guitarra eléctrica y el canto.
 
 - 🔭 Busco/quiero:
-  - Conseguir un trabajo que me permita mejorar mis habilidades como profesional.
-  - Graduarme de la Universidad.
-  - Poder combinar todo lo que fui aprendiendo en nuevos proyectos.
+  - Explorar nuevas posiblidades laborales en proyectos innovadores.
+  - Ser docente oficial de la Universidad.
+  - Explorar nuevas habilidades en colaboración con la inteligencia artificial para encontrar nuevas soluciones a problemas.
 
-- 🤔 Qué pueden encontrar en este repo?
+- 🤔 ¿Qué pueden encontrar en este repo?
   - Proyectos/trabajos prácticos enmarcados en materias obligatorias de la facultad.
   - Trabajos "formato paper" que formaron parte de investigación de materias optativas.
+  - Docu teórica de proyectos de mi trabajo o "demos" de ideas que fuimos desarrollando.
   - Proyectos personales con mucho amor :)
 
-- 🔍 Cómo busco todo eso?
+- 🔍 ¿Cómo busco todo eso?
   - La mayoría de las cosas están dentro de una carpeta que refleja más o menos el área al que pertenecen.
   - En cada proyecto pueden ver la barrita inferior derecha que indica el porcentaje de cada lenguaje de programación que se usa (en general Python, c++, R, SQL o Java, cplex o scip).
   - Hay carpetas que tienen el nombre de materia y otras el nombre de la temática que tocan. Por eso va a ser probable que haya un proyecto de ML dentro de estadística. Todo lo que esté muy muy copado, seguramente lo tenga repetido en varias carpetas porque corresponde con distintas áreas.
